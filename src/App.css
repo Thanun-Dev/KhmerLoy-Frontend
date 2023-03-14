@@ -695,6 +695,12 @@ footer .input-group-text {
   columns: var(--color-777777);
   margin-bottom: 0px;
 }
+.redColor {
+  color: red;
+}
+.greenColor {
+  color: green;
+}
 .main-product-details a {
   font-size: 14px;
   color: var(--color-777777);
